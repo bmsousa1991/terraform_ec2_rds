@@ -94,5 +94,3 @@ Essas variáveis podem ser definidas em um arquivo `terraform.tfvars` ou passada
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e correções.
 
-## Licença
-Este projeto está licenciado sob a MIT License.       
